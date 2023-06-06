@@ -37,7 +37,7 @@
 
 ## 👁️Issue template
 
-To achieve this we need to set a “template” to upload scripts to the issue so it will be checked with the following script development.
+To achieve this we need to set a “template” to upload scripts to the issue so it will be checked with the sast-code-scan script.
 💡 please check [this example template](https://github.com/4rth4S/sast-code-scan/blob/main/example/gh_comment_template) 
 
 ### 🦖 Important Things
