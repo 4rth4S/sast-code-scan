@@ -38,12 +38,13 @@
 ## 👁️Issue template
 
 To achieve this we need to set a “template” to upload scripts to the issue so it will be checked with the following script development.
+💡 please check [this example template](https://github.com/4rth4S/sast-code-scan/blob/main/example/gh_comment_template) 
 
 ### 🦖 Important Things
 
 1. The script need to be uploaded into a single comment into an issue.
 2. The comment needs to follow this template: 
-3. Lets dissect this template together: 
+3. Lets dissect [this template](https://github.com/4rth4S/sast-code-scan/blob/main/example/gh_comment_template) together: 
     1. Between the tags `<summary>` we need to put the name like `custom-integration.py` or `custom-integration.sh` (the script checks `.*py` or `.*sh` between this tags to parse the script so it matters)
     2. Pay attention to **REPLACE_THIS_TEXT_AND_PASTE_YOUR_CODE_HERE** because there you will put all your script code as if you were going to place it in production.    
 
