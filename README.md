@@ -29,8 +29,8 @@
 3. In the repository, click on the `Settings` tab located near the top-right corner of the page.
 4. In the left sidebar, click on `Secrets` and then click on `Actions`
 5. Click on the `New repository secret` button.
-6. Provide a name for the secret in the `Name` field. Assign `**MY_SECRET_T0K3N**` to it .
-7. In the `Secret` field, enter the actual value or sensitive information you want to store as the secret in this case will be the value of your `**GH_PAT_TOKEN**` created in the step before.
+6. Provide a name for the secret in the `Name` field. Assign `MY_SECRET_T0K3N` to it .
+7. In the `Secret` field, enter the actual value or sensitive information you want to store as the secret in this case will be the value of your `GH_PAT_TOKEN` created in the step before.
 8. Click on the `Add secret` button.
 
 ---
