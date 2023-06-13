@@ -20,7 +20,7 @@
         1. *`codespace:secrets, repo, workflow, write:discussion, write:packages`*
 8. Scroll down and click on the "Generate token" button.
 9. GitHub will generate a new token for you. 
-    - 💡**Make sure to copy the token immediately because you won't be able to see it again !!! ** 👀
+    - 💡**Make sure to copy the token immediately because you won't be able to see it again !!!** 👀
 11. Store the token in a secure location like password vault for later use.
 
 ### 📖GitHub_Secret
