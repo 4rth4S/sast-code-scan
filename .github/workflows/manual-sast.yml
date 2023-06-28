@@ -38,11 +38,6 @@ jobs:
       with:
         python-version: 3.x
 
-    - name: Print Path
-      run: |
-        pwd
-        ls -lAtrh
-
     - name: Install shellcheck
       run: |
         sudo apt-get update
